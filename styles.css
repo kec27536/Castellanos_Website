@@ -8,6 +8,21 @@
  * your project.
  */
 
+
+
+ /* --------------------------------- CSS ------------------------*/
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+ /* --------------------------------- Images ------------------------*/
+
 .bg-cover-image {
 	background: url(images/Postcard.jpg) center center no-repeat;
 	background-attachment: fixed;
