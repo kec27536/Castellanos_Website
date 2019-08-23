@@ -18,10 +18,33 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
+
 }
 
 
+
+
+.fill {
+display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
+
+
+
  /* --------------------------------- Images ------------------------*/
+
 
 .bg-cover-image {
 	background: url(images/Postcard.jpg) center center no-repeat;
