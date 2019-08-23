@@ -121,8 +121,8 @@ display: flex;
   .video-title {
     
     position: absolute;
-      top: 26%;
-      left: 40%;
+      top: 57%;
+      left: 45%;
     transform: translateX(0%);
     z-index: 99;
 
