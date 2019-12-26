@@ -66,20 +66,12 @@ display: flex;
  /* --------------------------------- Images ------------------------*/
 
 
-.bg-cover-image2 {
+.bg-cover-image {
 	background: url(images/Postcard.jpg) center center no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-	border-bottom-width: 4px;
-	border-color:black;
-
-}
-
-.bg-cover-image1 {
-	background: url(images/Postcard.jpg) center center no-repeat;
-	background-attachment: fixed;
-	background-size: auto;
-	border-bottom-width: 4px;
+	border-bottom-width: 100%;
+	background-attachment: scroll;
 	border-color:black;
 
 }
