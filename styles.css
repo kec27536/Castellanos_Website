@@ -62,12 +62,23 @@ display: flex;
 }
 
 
+.overlay {
+  background-color: rgba(254, 252, 191, .4);
+
+
+}
+
+
+.text-shadow {
+  text-shadow: 1px 1px 2px black;
+}
+
 
  /* --------------------------------- Images ------------------------*/
 
 
 .bg-cover-index {
-  background: url(images/kevin.jpeg) center center no-repeat;
+  background: url(images/JPEG/optimized/kevin.jpg) center center no-repeat;
   background-attachment: fixed;
   background-size: cover;
   border-bottom-width: 100%;
@@ -105,7 +116,7 @@ display: flex;
 }
 
 .bg-quote {
-  background: url(images/Setup.JPG) center center no-repeat;
+  background: url(images/JPEG/optimized/Setup.JPG) center center no-repeat;
   background-attachment: fixed; 
   background-size: cover;
   background-attachment: scroll;
