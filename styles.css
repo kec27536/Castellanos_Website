@@ -116,7 +116,7 @@ display: flex;
 }
 
 .bg-quote {
-  background: url(images/JPEG/optimized/Setup.jpg) center center no-repeat;
+  background: url(images/SetupOpt.jpg) center center no-repeat;
   background-attachment: fixed; 
   background-size: cover;
   background-attachment: scroll;
