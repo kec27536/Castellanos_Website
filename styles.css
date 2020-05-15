@@ -82,7 +82,7 @@ display: flex;
   background-attachment: fixed;
   background-size: cover;
   border-bottom-width: 100%;
- 
+  background-attachment: scroll;
   border-color:black;
 
 }
